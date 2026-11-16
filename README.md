@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Hi,%20I'm%20Kumar%20Saksham%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/Seeekerror">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Java+Developer;Problem+Solver;Building+backend+projects;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Software+Engineer;Problem+Solver;Building+backend+projects;Always+learning+something+new" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Seeekerror&label=Profile+views&color=6366f1&style=flat-square" alt="views" />
@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 I'm **Kumar Saksham**, a developer who loves writing clean Java code
+- 💻 I'm **Kumar Saksham**, a **Software Engineer** who loves writing clean code
 - 🔭 Currently working on **backend projects and problem solving**
 - 🌱 Learning **system design, data structures & algorithms**
 - 🎯 Goal: build real-world apps and grow as a software engineer
