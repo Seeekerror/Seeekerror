@@ -31,10 +31,10 @@ A **Software Engineer** who enjoys building backend applications in **Java** and
 ## 🧰 I Code With
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nestjs,git,github,vscode,idea&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,py,html,css,git,github,vscode,idea&perline=8" alt="skills" />
 </div>
 
-> Add more by editing the list above, e.g. `spring`, `mysql`, `nodejs`, `react`, `docker`. Full list: https://skillicons.dev
+> Add more by editing the list above, e.g. `spring`, `mysql`, `js`, `react`, `docker`. Full list: https://skillicons.dev
 
 ---
 
