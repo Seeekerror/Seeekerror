@@ -40,32 +40,50 @@ A **Software Engineer** who enjoys building backend applications in **Java** and
 
 ## 🚀 Projects
 
-> 👆 Click any card to open the repo.
-
-<div align="center">
-
-<a href="https://github.com/Seeekerror/RateLimiterApplication">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Seeekerror&repo=RateLimiterApplication&theme=tokyonight&hide_border=true" alt="RateLimiterApplication" />
-</a>
-<a href="https://github.com/Seeekerror/expense-Splitter">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Seeekerror&repo=expense-Splitter&theme=tokyonight&hide_border=true" alt="expense-Splitter" />
-</a>
-
-<a href="https://github.com/Seeekerror/HostelRoomAllotmentApplication">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Seeekerror&repo=HostelRoomAllotmentApplication&theme=tokyonight&hide_border=true" alt="HostelRoomAllotmentApplication" />
-</a>
-<a href="https://github.com/Seeekerror/ProblemSolving">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Seeekerror&repo=ProblemSolving&theme=tokyonight&hide_border=true" alt="ProblemSolving" />
-</a>
-
-<a href="https://github.com/Seeekerror/Todo">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Seeekerror&repo=Todo&theme=tokyonight&hide_border=true" alt="Todo" />
-</a>
-<a href="https://github.com/Seeekerror/docs.nestjs.com">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Seeekerror&repo=docs.nestjs.com&theme=tokyonight&hide_border=true" alt="docs.nestjs.com" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Seeekerror/RateLimiterApplication">⏱️ RateLimiterApplication</a></h3>
+      <p>Application that limits how many requests a client can make.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <a href="https://github.com/Seeekerror/RateLimiterApplication"><img src="https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Seeekerror/expense-Splitter">💸 expense-Splitter</a></h3>
+      <p>Split and track shared expenses between people.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <a href="https://github.com/Seeekerror/expense-Splitter"><img src="https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Seeekerror/HostelRoomAllotmentApplication">🏨 HostelRoomAllotmentApplication</a></h3>
+      <p>Hostel room allotment system.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <a href="https://github.com/Seeekerror/HostelRoomAllotmentApplication"><img src="https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Seeekerror/ProblemSolving">🧠 ProblemSolving</a></h3>
+      <p>My DSA and coding practice solutions.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <a href="https://github.com/Seeekerror/ProblemSolving"><img src="https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Seeekerror/Todo">✅ Todo</a></h3>
+      <p>Simple todo application.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <a href="https://github.com/Seeekerror/Todo"><img src="https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Seeekerror/docs.nestjs.com">📕 docs.nestjs.com</a></h3>
+      <p>Fork of the official NestJS documentation.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <a href="https://github.com/Seeekerror/docs.nestjs.com"><img src="https://img.shields.io/badge/View_Repo-6366f1?style=flat-square&logo=github&logoColor=white" alt="View repo" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
